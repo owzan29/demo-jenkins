@@ -1,1 +1,1 @@
-echo "Hello, you build success!"
+echo "Hello, your build success!"
